@@ -109,9 +109,5 @@ A matéria ensina conceitos fundamentais de lógica, estruturas de controle e t�
 ```
 
 
----
 
-## 📩 Contato
-
-Para dúvidas, sugestões ou ajustes, abra uma **issue** no repositório.
 
